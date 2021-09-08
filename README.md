@@ -1,2 +1,1 @@
-# nurinbontot.io
-Newbies
+[![Build and Deploy to ACK](https://github.com/nurinbontot/nurinbontot.io/actions/workflows/alibabacloud.yml/badge.svg)](https://github.com/nurinbontot/nurinbontot.io/actions/workflows/alibabacloud.yml)
